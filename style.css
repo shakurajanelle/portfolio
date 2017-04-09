@@ -1,1 +1,64 @@
+/* site colors: #B58C6E-sand, #647879-grey, #8E6060-red */
+*{
+  font-family: Helvetica Neue,Helvetica,sans-serif;
+  background-color:#B58C6E;
+}
 
+h1 {
+  font-size:82px;
+  text-transform:uppercase;
+  text-align:center;
+}
+
+h2 {
+  text-transform:uppercase;
+  text-decoration:underline;
+  font-size:24px;
+}
+
+h3 {
+  font-weight: 700;  
+  font-size:20px;
+  }
+
+h4 {
+  color:#C0C0C0;
+  text-transform: uppercase;
+  font-size:18px;
+  }
+
+.bottom {
+    text-transform: uppercase;
+    padding: 60px 0 140px; 
+}
+
+.container {
+    padding: 0 10px;
+    margin: 0 auto;
+    text-align: center;
+    width: 100%;
+    display: block;
+    max-width: 1000px;
+}
+
+a {
+  text-decoration:none;
+  text-transform:uppercase;
+  color:#000;
+  font-weight: 700;
+}
+
+.space {
+    margin: 0 25px;
+}
+
+.clean {
+  width:70%;
+  display:block;
+  margin-left:auto;
+  margin-right:auto;
+}
+
+li {
+ display:block; 
+}
